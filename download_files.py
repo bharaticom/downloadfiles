@@ -1,15 +1,15 @@
 import boto3
 
 # Configure the DigitalOcean Spaces endpoint URL
-endpoint_url = 'https://fra1.digitaloceanspaces.com'
+endpoint_url = ''
 
 # Specify your DigitalOcean Spaces credentials
-access_key = 'DO00X4ND2YZ9YVZEY9EN'
-secret_key = '/U77OrTYPrb9AJ64Y9/PL3Kv963xYgBnJ15CJgpjPeE'
+access_key = ''
+secret_key = ''
 
 # Specify the bucket and folder name
 bucket_name = 'cxr'
-folder_name = 'Expert-Source-Calls/jan/'
+folder_name = ''
 
 # Specify the local directory path where you want to save the downloaded files
 local_directory_path = '/home/bharat/cxr-call/'
